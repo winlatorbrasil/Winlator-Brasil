@@ -10,6 +10,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/downloads/winlatorbrasil/Winlator-Brasil/total?style=flat-square&logo=github&label=Downloads&color=brightgreen" alt="Total Downloads"/>
+  <img src="https://img.shields.io/badge/Android-8.0%2B-green?style=flat-square&logo=android" alt="Android 8.0+"/>
+  <img src="https://img.shields.io/badge/Arquitetura-arm64--v8a-blue?style=flat-square" alt="arm64-v8a"/>
+  <img src="https://img.shields.io/badge/Licença-Gratuito-orange?style=flat-square" alt="Gratuito"/>
+</p>
+
+<p align="center">
   <a href="https://chat.whatsapp.com/IeH3Va7W9pzFoL2Ln3ixG1">📲 Entre para o nosso grupo no WhatsApp</a>
 </p>
 
@@ -175,3 +182,4 @@ Agradeço muito! Mas este projeto é gratuito para todos.
 
 Muito obrigado a toda a comunidade, testers, desenvolvedores e usuários que apoiam este mod!  
 A jornada continua — e tudo isso só é possível graças a vocês!
+
